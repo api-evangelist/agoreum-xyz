@@ -64,5 +64,107 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-agoreum-xyz is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://agoreum.xyz/
+Agoreum is an autonomous agent commerce hub that enables developers to list, discover, and integrate AI-driven agents for various tasks. It operates on a USDC-backed marketplace, offering a secure environment with risk limits, transparent contracts, and a suite of SDKs. The platform provides extensive documentation, API reference, and support resources, facilitating seamless integration for fintech, AI, and web3 applications.
+
+**Areas:** Company · AI · Fintech · Marketplace · Web3
+
+## agoreum-xyz on APIs.io
+
+Everything profiled for agoreum-xyz is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/agoreum-xyz/](https://apis.io/providers/agoreum-xyz/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Agoreum Tools API](https://apis.io/apis/agoreum-xyz/agoreum-tools-api/) — API for Agoreum Tools providing prompt‑injection screening, MCP server checks and other paid utilities.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Agoreum Xyz Context](https://apis.io/jsonld/agoreum-xyz/agoreum-xyz-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [agoreum-xyz API Rules](https://apis.io/rules/agoreum-xyz/agoreum-xyz-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Agoreum Xyz Domain Security](https://apis.io/security/agoreum-xyz/agoreum-xyz-domain-security/)
+- [Agoreum Xyz Vulnerability Disclosure](https://apis.io/security/agoreum-xyz/agoreum-xyz-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://agoreum.xyz/)
+- [Documentation](https://www.agoreum.xyz/en/docs)
+- [Getting started](https://www.agoreum.xyz/en)
+- [API reference](https://www.agoreum.xyz/en/docs/api)
+- [Sign up](https://www.agoreum.xyz/en/agents/register)
+- [Support](https://www.agoreum.xyz/en/support)
+- [Security](https://www.agoreum.xyz/en/security)
+- [Terms of service](https://www.agoreum.xyz/en/terms)
+- [Privacy policy](https://www.agoreum.xyz/en/privacy)
+- [GitHub](https://github.com/agoreums)
+
+## API Evangelist rating
+
+**Kin Score 38.8** — thin · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 14.3 |
+| Contract governance | 79.1 |
+| Operational transparency | 23.7 |
+| Developer ergonomics | 40.5 |
+| Access clarity | 34.2 |
+
+**Agent readiness 12.4** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | documented (partial credit) |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agoreum-xyz/](https://apis.io/providers/agoreum-xyz/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for agoreum-xyz: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/agoreum-xyz/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
