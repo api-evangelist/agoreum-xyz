@@ -66,7 +66,7 @@
 
 Agoreum is an autonomous agent commerce hub that enables developers to list, discover, and integrate AI-driven agents for various tasks. It operates on a USDC-backed marketplace, offering a secure environment with risk limits, transparent contracts, and a suite of SDKs. The platform provides extensive documentation, API reference, and support resources, facilitating seamless integration for fintech, AI, and web3 applications.
 
-**Areas:** Company · AI · Fintech · Marketplace · Web3
+**Areas:** Company · Artificial Intelligence · Fintech · Marketplace · Web3
 
 ## agoreum-xyz on APIs.io
 
@@ -79,6 +79,12 @@ Everything profiled for agoreum-xyz is published on APIs.io rather than in this 
 ### Published properties
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [agoreum-xyz-mcp.yml](https://apis.io/servers/agoreum-xyz/agoreum-xyz-mcp-yml/)
 
 #### JSON-LD (1)
 
@@ -96,8 +102,8 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agoreum Xyz Domain Security](https://apis.io/security/agoreum-xyz/agoreum-xyz-domain-security/)
-- [Agoreum Xyz Vulnerability Disclosure](https://apis.io/security/agoreum-xyz/agoreum-xyz-vulnerability-disclosure/)
+- [agoreum-xyz Domain Security](https://apis.io/security/agoreum-xyz/agoreum-xyz-domain-security/)
+- [agoreum-xyz Vulnerability Disclosure](https://apis.io/security/agoreum-xyz/agoreum-xyz-vulnerability-disclosure/)
 
 ## Where to find this API
 
@@ -116,25 +122,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 38.8** — thin · rubric 0.25.0 · scored 2026-10-30
+**Kin Score 34.1** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
+| Discoverability | 85.0 |
 | Contract quality | 14.3 |
-| Contract governance | 79.1 |
-| Operational transparency | 23.7 |
+| Contract governance | 22.0 |
+| Operational transparency | 21.4 |
 | Developer ergonomics | 40.5 |
-| Access clarity | 34.2 |
+| Access clarity | 40.4 |
 
-**Agent readiness 12.4** — agent-aware
+**Agent readiness 19.2** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
-| Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| Reversibility Documented | documented (partial credit) |
+| MCP Server | verified |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | derived (partial credit) |
@@ -152,6 +158,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
 
